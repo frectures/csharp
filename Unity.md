@@ -41,9 +41,12 @@
 - C# support works better if you open the *project folder* `Hello World` in Visual Studio Code
   - The scripts are located in the `Assets` sub-folder
 
-## Tutorials
+## Visual Studio (several GB) vs. Visual Studio Code (~100 MB)
+
+- According to students from a previous run, Visual Studio (IDE) works much better with Unity than Visual Studio Code (Editor)
+- Apparently, university students can [download Visual Studio](https://visualstudio.microsoft.com/downloads) for free
+
+## Tutorial
 
 - [Spiele Entwickeln mit Unity für Anfänger](https://www.youtube.com/watch?v=37SFWBllCaM&list=PLf_j4Db1v3RkEknk50NWuOVL96xv6if-7)
-  - Von Kollegin empfohlen, die seit kurzem in einem Unity-Projekt arbeitet
-- [Introduction to Game Development (Unity and C#)](https://www.youtube.com/watch?v=L9zlZjxmwXU&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw)
-  - Vor vielen Jahren selber geschaut
+  - Von Kollegin empfohlen, die mittlerweile in einem Unity-Projekt arbeitet
